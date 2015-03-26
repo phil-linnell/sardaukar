@@ -11,8 +11,8 @@ A simple node.js app for no fuss UI developers and fast prototyping.
 
 
 
-    $ npm install
-    $ gulp
+      $ npm install
+      $ gulp
 
 
 
