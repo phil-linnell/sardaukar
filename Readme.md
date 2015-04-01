@@ -1,6 +1,6 @@
 # Sardaukar
 
-A simple node.js app for no fuss UI developers and fast prototyping.
+A basic **express** app for no fuss UI developers or fast prototyping.
 
 - Express
 - Gulp
